@@ -1,0 +1,17 @@
+29513c2cd1093380ca27a0ea54470439 *DESCRIPTION
+becb947a28ca59553ac50b8064a8f512 *NAMESPACE
+c38744f342c50a882544e58a787f7861 *R/app_config.R
+93dd22bde126561a3ecbfaa169cf244b *R/app_server.R
+cb21dc136c23fc8cfe746faf5669d010 *R/app_ui.R
+0194b7bbe9fa2df593c879fd7ee6d14a *R/run_app.R
+591ae71e77fa4cfcb12df0aec589b637 *R/utils.R
+d1f6716f0d04be377143093c474ac816 *build/vignette.rds
+81560d1b906a530c87fa0acbb2f5cca4 *inst/app/www/favicon.ico
+fc88d72395ceecf971e59831b8d7d5fd *inst/doc/ggpca-examples.R
+3dbc5d0ab21772278c6cf0c4310f49ac *inst/doc/ggpca-examples.Rmd
+a396142964e585b1a4d8690bd388b4a3 *inst/doc/ggpca-examples.html
+68ce7f6c68fba1eb054a6df90674faa6 *inst/extdata/example.csv
+9e61ed084c626dbbf91b454eb05e16b5 *inst/golem-config.yml
+75efe65ea05526738a5b2b7f47b5be0b *man/ggpca.Rd
+af079ee98204aa56b308c249fd7599d6 *man/run_app.Rd
+3dbc5d0ab21772278c6cf0c4310f49ac *vignettes/ggpca-examples.Rmd
