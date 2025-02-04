@@ -1,7 +1,7 @@
 ---
 title: "Using ggpca for Publication-Ready Dimensionality Reduction Plots"
 author: "Yaoxiang Li"
-date: "`r Sys.Date()`"
+date: "2016-10-25"
 output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{Using ggpca for Publication-Ready Dimensionality Reduction Plots}
